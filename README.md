@@ -23,9 +23,8 @@ To use the API in your Maven project, add the following dependency to your `pom.
 </dependency>
 ```
 
-Usage
-After adding the dependency, you can use the API in your code. For example, if your API provides a class TownService
-that has a method getTowns(), you can use it like this
+### Usage
+After adding the dependency, you can use the API in your code.
 
 ```kotlin
 val towns = listOf(TOWNS)
